@@ -2,8 +2,8 @@
 
 This Python script is designed for sentiment analysis of financial news articles. It integrates machine learning (LSTM) and Google News API to classify articles into sentiments (e.g., Very Bullish, Bullish, Neutral, Bearish, Very Bearish). It also employs a caching mechanism to store sentiment analysis results for efficiency.
 
-**Key Features:
-**Dataset Loading and Preprocessing:
+**Key Features:**
+Dataset Loading and Preprocessing:
 - Prepares a labeled dataset for training the LSTM model.
 - Uses text cleaning and tokenization to preprocess input text.
 
