@@ -1,1 +1,1 @@
-# financialnewsanalyzer
+# Financial News Sentiment Analyzer
